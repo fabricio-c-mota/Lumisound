@@ -64,3 +64,5 @@ O **Lumisound** demonstra como a combinação de um LED RGB e um buzzer pode cri
 
 Este sistema pode ser aplicado em contextos educativos, de acessibilidade e entretenimento, servindo como base para futuras melhorias e personalizações. 🚀
 
+Link para o vídeo demonstrativo: https://drive.google.com/file/d/1NvY6pknxNDp3-oRLGSkHFGcGUOPrfZs2/view?usp=sharing
+

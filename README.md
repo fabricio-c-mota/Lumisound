@@ -38,8 +38,8 @@ A escolha das funcionalidades foi baseada na ideia de criar um sistema interativ
 O código foi escrito em linguagem C utilizando o SDK da Raspberry Pi Pico W. A implementação inclui:
 - **Configuração dos GPIOs**: Definição dos pinos de entrada e saída.
 - **Controle dos LEDs**: Alternância e combinação de cores conforme a interação com os botões.
-- **Geração de Som**: O buzzer é ativado com frequências específicas para cada cor, respondendo a escala diatônica.
-- **Leitura dos Botões**: Uso de interrupções ou polling para detectar pressionamentos.
+- **Geração de Som**: O buzzer é ativado com frequências específicas para cada cor, respondendo a escala diatônica, além da emissão das melodias correspondentes associadas.
+- **Leitura dos Botões**: Uso de interrupções ou polling para detectar pressionamentos, a partir disso, identificar e distinguir entre pressionameto curto (reprodução da nota individualmente) ou pressionamento longo (reprodução melódica).
 
 ## **Funcionamento do Projeto**
 Inicialização do sistema e configuração dos pinos GPIO.
@@ -80,7 +80,7 @@ As cores seguem a sequência: Vermelho, Verde, Azul, Amarelo, Ciano, Magenta e B
 - **Botões de Pressão**: Garantem uma interação simples e eficiente com o sistema.
 
 ## **Conclusão**
-**Lumisound: Sinfonia Interativa** demonstra a eficácia de integrar feedbacks visuais e sonoros em sistemas embarcados. Seu design modular e a utilização de arrays para definição das melodias facilitam futuras expansões e personalizações, tornando-o uma excelente ferramenta para aplicações educacionais, de acessibilidade e entretenimento.
+**Lumisound: Sinfonia Interativa** demonstra a eficácia de integrar feedbacks visuais e sonoros em sistemas embarcados. Seu design modular e a utilização de arrays em estrutura para definição das melodias facilitam futuras expansões e personalizações, tornando-o uma excelente ferramenta para aplicações educacionais, de acessibilidade e entretenimento.
 
 Este sistema pode ser aplicado em contextos educativos, de acessibilidade e entretenimento, servindo como base para futuras melhorias e personalizações. 🚀
 

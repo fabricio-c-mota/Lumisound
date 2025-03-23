@@ -84,5 +84,5 @@ As cores seguem a sequência: Vermelho, Verde, Azul, Amarelo, Ciano, Magenta e B
 
 Este sistema pode ser aplicado em contextos educativos, de acessibilidade e entretenimento, servindo como base para futuras melhorias e personalizações. 🚀
 
-Link para o vídeo demonstrativo: https://drive.google.com/file/d/1NvY6pknxNDp3-oRLGSkHFGcGUOPrfZs2/view?usp=sharing
+Link para a playlist demonstrativa completa do projeto: https://www.youtube.com/playlist?list=PLbL-lbb7trv4ktfFE2shQNsuFu1Yr174m
 
